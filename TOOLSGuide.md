@@ -1957,6 +1957,7 @@ Twitch Stream Tracker
 * [Nushell](https://www.nushell.sh/) - Alt Shell
 * [GSudo](https://github.com/gerardog/gsudo) - Sudo Alternative for Windows
 * [Resource Hacker](http://www.angusj.com/resourcehacker/) - Resource Editor 
+* [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 * [grepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace 
 * [ngrep](https://github.com/jpr5/ngrep) - Specify Expressions to match against Data Payloads of Packets 
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
